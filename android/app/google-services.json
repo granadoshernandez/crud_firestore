@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971888314165",
+    "project_id": "crud22-69794",
+    "storage_bucket": "crud22-69794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971888314165:android:4e48b796654df65831ee7c",
+        "android_client_info": {
+          "package_name": "com.wlgh.crud_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAanav72nbiq7TYhmDx5B2yVfxBiTdANFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
